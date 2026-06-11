@@ -89,6 +89,8 @@ The dataset includes:
 - Driver Ratings
 - Driver Cancellation Reasons
 - Performance Evaluation
+- <img width="1237" height="692" alt="image" src="https://github.com/user-attachments/assets/381fb3c4-025f-4c57-a224-2988e5071ab7" />
+
 
 ### Ride Analysis
 - Average Ride Distance
