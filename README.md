@@ -3,6 +3,27 @@
 ## Project Overview
 This project focuses on analyzing OLA ride booking data using SQL and Power BI. The goal is to derive meaningful business insights from ride bookings, cancellations, customer behavior, driver performance, and revenue generation.
 
+📊 Dashboard Highlights
+Overall Summary
+
+Total Bookings:
+
+Image
+
+Total Booking Value:
+
+Image
+
+Ride volume trend over time
+
+Vehicle Type Breakdown
+
+Metrics: Booking value, Success value, Avg & Total Distance
+Top performers: Prime Plus, Prime Sedan, E-Bike
+Revenue Analysis
+
+Payment modes: Cash, UPI, Credit/Debit Cards
+Top 5 Customers by booking value
 ## Project Architecture
 
 Excel Dataset → SQL Analysis → Power BI Dashboard → Business Insights
