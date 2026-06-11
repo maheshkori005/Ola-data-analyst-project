@@ -78,6 +78,7 @@ The dataset includes:
 - Total Revenue
 - Average Booking Value
 - Revenue by Vehicle Type
+<img width="1238" height="680" alt="image" src="https://github.com/user-attachments/assets/8be2bc82-bc18-4772-816f-f907e20d2fd2" />
 
 ### Customer Analysis
 - Customer Ratings
