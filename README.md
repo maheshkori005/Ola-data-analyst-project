@@ -13,7 +13,7 @@ Excel Dataset → SQL Analysis → Power BI Dashboard → Business Insights
 - Power BI
 - SQL
 ## Dataset Information
-<img width="1237" height="692" alt="image" src="https://github.com/user-attachments/assets/6a8a7844-5485-4175-98c0-069f4763ccc4" />
+
 
 The dataset includes:
 
