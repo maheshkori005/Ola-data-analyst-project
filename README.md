@@ -13,7 +13,8 @@ Total Bookings:
 
 Total Booking Value:
 
-Image
+<img width="408" height="127" alt="image" src="https://github.com/user-attachments/assets/56fac11c-c396-48c9-8c5c-cb8990dcd0db" />
+
 
 Ride volume trend over time
 
