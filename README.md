@@ -45,7 +45,7 @@ Excel Dataset → SQL Analysis → Power BI Dashboard → Business Insights
 - Power BI
 - SQL
 ## Dataset Information
-
+<img width="1243" height="698" alt="image" src="https://github.com/user-attachments/assets/7270a0e3-9eee-4f24-98a4-aa71e0fc80e5" />
 <img width="1231" height="680" alt="image" src="https://github.com/user-attachments/assets/e200d078-12c0-408b-a9f7-0b1f0e6c0a23" />
 <img width="1240" height="692" alt="image" src="https://github.com/user-attachments/assets/6a9a514f-e88c-4c71-8049-63e88264bf02" />
 The dataset includes:
@@ -64,7 +64,7 @@ The dataset includes:
 - Customer Ratings
 - Cancellation Reasons
 - Incomplete Ride Information
-<img width="1243" height="698" alt="image" src="https://github.com/user-attachments/assets/7270a0e3-9eee-4f24-98a4-aa71e0fc80e5" />
+
 
 ## Key Analysis Performed
 
