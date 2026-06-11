@@ -62,6 +62,7 @@ The dataset includes:
 - Customer Ratings
 - Cancellation Reasons
 - Incomplete Ride Information
+<img width="1243" height="698" alt="image" src="https://github.com/user-attachments/assets/7270a0e3-9eee-4f24-98a4-aa71e0fc80e5" />
 
 ## Key Analysis Performed
 
