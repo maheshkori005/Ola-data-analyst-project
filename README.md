@@ -131,7 +131,10 @@ The dataset includes:
 - Demand Forecasting
 - Advanced DAX Measures
 
+
 ## Author
 
 Mahesh Kumar Kori
++91 9753579590
+maheshkori005@gmail.com
 
