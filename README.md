@@ -30,7 +30,7 @@ Payment modes: Cash, UPI, Credit/Debit Cards
 
 Top 5 Customers by booking value
 <img width="253" height="196" alt="image" src="https://github.com/user-attachments/assets/ad346050-c49d-4a01-a9b4-08161e98505b" />
-<img width="1240" height="692" alt="image" src="https://github.com/user-attachments/assets/6a9a514f-e88c-4c71-8049-63e88264bf02" />
+
 
 
 
@@ -46,7 +46,8 @@ Excel Dataset → SQL Analysis → Power BI Dashboard → Business Insights
 - SQL
 ## Dataset Information
 
-
+<img width="1231" height="680" alt="image" src="https://github.com/user-attachments/assets/e200d078-12c0-408b-a9f7-0b1f0e6c0a23" />
+<img width="1240" height="692" alt="image" src="https://github.com/user-attachments/assets/6a9a514f-e88c-4c71-8049-63e88264bf02" />
 The dataset includes:
 
 - Booking ID
