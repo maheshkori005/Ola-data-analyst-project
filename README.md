@@ -12,7 +12,7 @@ Excel Dataset → SQL Analysis → Power BI Dashboard → Business Insights
 - MySQL
 - Power BI
 - SQL
-
+https://github.com/maheshkori005/Ola-data-analyst-project/blob/2e9cb33ae87c56e495675b35fb572635e13ff438/Screenshot%202026-06-11%20135724.jpg
 
 ## Dataset Information
 
