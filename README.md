@@ -8,7 +8,8 @@ Overall Summary
 
 Total Bookings:
 
-Image
+<img width="408" height="112" alt="image" src="https://github.com/user-attachments/assets/1773b61b-6c2e-4345-ab66-f426ef088538" />
+
 
 Total Booking Value:
 
